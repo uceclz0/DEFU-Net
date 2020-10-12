@@ -1,1 +1,1 @@
-# DEFU-Net
+# DEFU-Net (accepted by ICPR)
